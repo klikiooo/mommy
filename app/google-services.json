@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121744326205",
+    "project_id": "mommy-care-5f561",
+    "storage_bucket": "mommy-care-5f561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121744326205:android:5c8692709f1d6e5f25f454",
+        "android_client_info": {
+          "package_name": "com.example.mommycare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtlYOrgjmeaDyHYrGVOuXUOccc1M-_zpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
